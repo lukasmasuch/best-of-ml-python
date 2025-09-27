@@ -4655,3 +4655,8 @@ projects:
     pypi_id: skrub
     category: tabular
     labels: ["sklearn", "pandas"]
+  - name: deepinv
+    github_id: deepinv/deepinv
+    pypi_id: deepinv
+    docs_url: https://deepinv.github.io/deepinv/
+    category: ml-frameworks
