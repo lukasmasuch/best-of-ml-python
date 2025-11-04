@@ -4660,3 +4660,6 @@ projects:
     pypi_id: deepinv
     docs_url: https://deepinv.github.io/deepinv/
     category: ml-frameworks
+  - github_id: juspay/neurolink
+    category: ml-frameworks
+    description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
