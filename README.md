@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lukasmasuch-best-of-ml-python-badge.png)](https://mseep.ai/app/lukasmasuch-best-of-ml-python)
+
 <!-- markdownlint-disable -->
 <h1 align="center">
     Best-of Machine Learning with Python
