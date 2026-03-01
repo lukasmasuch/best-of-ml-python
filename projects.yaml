@@ -4429,6 +4429,10 @@ projects:
     github_id: facebookresearch/textlesslib
     category: audio
     labels: ["pytorch"]
+  - name: BirdNET-Analyzer
+    github_id: birdnet-team/BirdNET-Analyzer
+    pypi_id: birdnet-analyzer
+    category: audio
   - name: mpld3
     github_id: mpld3/mpld3
     category: data-viz
