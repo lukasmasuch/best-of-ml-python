@@ -553,7 +553,7 @@ projects:
     pypi_id: spacy-transformers
     conda_id: conda-forge/spacy-transformers
     category: nlp
-    labels: ["spacy"]
+    labels: []
   - name: Camphr
     github_id: PKSHATechnology-Research/camphr
     pypi_id: camphr
