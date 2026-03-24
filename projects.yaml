@@ -4668,3 +4668,7 @@ projects:
   - github_id: juspay/neurolink
     category: ml-frameworks
     description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
+    - name: CrewAI
+  - github_id: crewAIInc/crewAI
+    category: ml-frameworks
+    description: Framework for orchestrating role-playing autonomous AI agents.
