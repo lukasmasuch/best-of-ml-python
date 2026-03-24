@@ -4668,3 +4668,7 @@ projects:
   - github_id: juspay/neurolink
     category: ml-frameworks
     description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
+    - name: LangGraph
+  - github_id: langchain-ai/langgraph
+    category: ml-frameworks
+    description: Framework for building stateful, multi-actor LLM applications and agents.
