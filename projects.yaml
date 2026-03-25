@@ -4668,3 +4668,7 @@ projects:
   - github_id: juspay/neurolink
     category: ml-frameworks
     description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
+  - name: arsenal
+    github_id: darshjme/arsenal
+    category: nlp
+    description: 100 zero-dependency Python libraries for LLM agent failure modes in production. Each library solves one specific failure class. 4375 tests. MIT license.
