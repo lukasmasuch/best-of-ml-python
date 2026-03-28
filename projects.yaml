@@ -4668,3 +4668,7 @@ projects:
   - github_id: juspay/neurolink
     category: ml-frameworks
     description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
+  - name: Sentinel AI
+    github_id: MaxwellCalkin/sentinel-ai
+    category: adversarial
+    description: Real-time safety guardrails for LLM applications with 8 scanners for prompt injection, PII, harmful content, hallucination, toxicity, and more.
