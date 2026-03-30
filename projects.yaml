@@ -4671,6 +4671,6 @@ projects:
 - name: crdt-merge
   github_id: mgillr/crdt-merge
   pypi_id: crdt-merge
-  category: model-serialization
+  category: model-serialisation
   description: "26 CRDT-compliant model merge strategies (SLERP, TIES, DARE, Fisher, LoRA) with mathematical convergence guarantees"
 
