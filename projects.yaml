@@ -1872,6 +1872,13 @@ projects:
     pypi_id: sacred
     conda_id: conda-forge/sacred
     category: ml-experiments
+  - name: Roundtable AI
+    github_id: askbudi/roundtable
+    pypi_id: roundtable-ai
+    description: Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface
+    homepage: https://askbudi.ai/roundtable
+    category: ml-experiments
+    labels: ["mcp-server"]
   - name: datmo
     github_id: datmo/datmo
     pypi_id: datmo
