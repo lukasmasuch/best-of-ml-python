@@ -4533,6 +4533,10 @@ projects:
     github_id: OpenMined/PipelineDP
     category: privacy-ml
     pypi_id: pipeline-dp
+  - name: asqav
+    github_id: jagmarques/asqav-sdk
+    pypi_id: asqav
+    category: privacy-ml
   - name: torchrec
     github_id: pytorch/torchrec
     category: recommender-systems
