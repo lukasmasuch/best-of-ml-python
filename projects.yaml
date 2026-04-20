@@ -4633,6 +4633,10 @@ projects:
     conda_id: comet_ml
     pypi_id: comet_ml
     category: ml-experiments
+  - name: agent-shadow-brain
+    github_id: theihtisham/agent-shadow-brain
+    npm_id: "@theihtisham/agent-shadow-brain"
+    category: ml-experiments
   - name: Runhouse
     github_id: run-house/runhouse
     pypi_id: runhouse
