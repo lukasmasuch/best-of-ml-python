@@ -4668,3 +4668,8 @@ projects:
   - github_id: juspay/neurolink
     category: ml-frameworks
     description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
+  - name: Promptise Foundry
+    github_id: promptise-com/foundry
+    pypi_id: promptise
+    category: nlp
+    description: Production Python framework for agentic AI and MCP servers with autonomous runtime, memory, tool integration, governance, guardrails, semantic caching, and observability.
