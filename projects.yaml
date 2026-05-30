@@ -3192,6 +3192,10 @@ projects:
     github_id: espnet/espnet
     pypi_id: espnet
     category: audio
+  - name: FunASR
+    github_id: modelscope/FunASR
+    pypi_id: funasr
+    category: audio
   - name: fastNLP
     github_id: fastnlp/fastNLP
     pypi_id: fastnlp
