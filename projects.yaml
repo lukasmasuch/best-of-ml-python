@@ -4668,3 +4668,7 @@ projects:
   - github_id: juspay/neurolink
     category: ml-frameworks
     description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
+  - name: Genesis 2 Cascade MoE
+    github_id: larionovavi-stack/genesis2-cascade-moe
+    category: ml-frameworks
+    description: Cascade MoE neural network with shared neuron pool. CPU-only, zero catastrophic forgetting, 18ms inference.
