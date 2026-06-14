@@ -4668,3 +4668,8 @@ projects:
   - github_id: juspay/neurolink
     category: ml-frameworks
     description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
+  - name: purgedcv
+    github_id: eslazarev/purged-cross-validation
+    pypi_id: purgedcv
+    category: financial-data
+    labels: ["sklearn"]
