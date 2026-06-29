@@ -7354,6 +7354,8 @@ _Libraries for connecting to, operating, and querying databases._
 - [**best-of-python-dev**](https://github.com/ml-tooling/best-of-python-dev): A ranked list of awesome python developer tools and libraries.
 - [**best-of-web-python**](https://github.com/ml-tooling/best-of-web-python): A ranked list of awesome python libraries for web development.
 
+- [OpenRuna datasets hub](https://www.openruna.com/hubs/ai-datasets) — 500+ HuggingFace datasets with graph links to benchmarks and prompts.
+
 ## Contribution
 
 Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
