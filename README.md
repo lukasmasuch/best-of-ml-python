@@ -1862,6 +1862,12 @@ _Libraries for processing, cleaning, manipulating, and analyzing text data as we
 	```
 </details>
 <details><summary>Show 59 hidden projects...</summary>
+<details>
+  <summary><a href="https://supercompress.vercel.app">SuperCompress</a> 🥇 - Learned prompt compression that reduces LLM token costs by ~65% using a ~5K-param CPU policy (~60ms latency). Open-source (MIT).</summary>
+  <br>
+  <b><a href="https://supercompress.vercel.app">Website</a></b>
+  <b><a href="https://github.com/arjunkshah/supercompress">GitHub</a></b>
+</details>
 
 - <b><a href="https://github.com/allenai/allennlp">AllenNLP</a></b> (🥈36 ·  ⭐ 12K · 💀) - An open-source NLP research library, built on PyTorch. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/facebookresearch/fastText">fastText</a></b> (🥈34 ·  ⭐ 26K · 💀) - Library for fast text representation and classification. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
