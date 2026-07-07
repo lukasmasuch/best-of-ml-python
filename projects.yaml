@@ -956,6 +956,10 @@ projects:
     pypi_id: aocr
     category: ocr
     labels: ["tensorflow"]
+  - name: natocr
+    github_id: alfredchiesa/natocr
+    pypi_id: natocr
+    category: ocr
   - name: doc2text
     github_id: jlsutherland/doc2text
     pypi_id: doc2text
