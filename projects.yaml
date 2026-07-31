@@ -4668,3 +4668,9 @@ projects:
   - github_id: juspay/neurolink
     category: ml-frameworks
     description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
+  - name: BESSER Neural Network Editor
+    github_id: BESSER-PEARL/BESSER
+    pypi_id: besser
+    description: A web-based visual editor for designing neural network architectures and automatically generating PyTorch and TensorFlow code.
+    labels: ["pytorch", "tensorflow"]
+    category: others
