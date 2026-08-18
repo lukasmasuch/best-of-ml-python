@@ -4668,3 +4668,8 @@ projects:
   - github_id: juspay/neurolink
     category: ml-frameworks
     description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
+  - name: POT
+    github_id: PythonOT/POT
+    pypi_id: POT
+    docs_url: https://pythonot.github.io/
+    category: ml-frameworks
