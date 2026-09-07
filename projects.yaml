@@ -1077,6 +1077,12 @@ projects:
     pypi_id: umap-learn
     conda_id: conda-forge/umap-learn
     category: data-viz
+  - name: TorchDR
+    github_id: TorchDR/TorchDR
+    pypi_id: torchdr
+    docs_url: https://torchdr.github.io/
+    category: data-viz
+    labels: ["pytorch", "sklearn"]
   - name: wordcloud
     github_id: amueller/word_cloud
     pypi_id: wordcloud
