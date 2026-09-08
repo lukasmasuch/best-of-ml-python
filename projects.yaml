@@ -4665,6 +4665,11 @@ projects:
     pypi_id: pathway
     docs_url: https://pathway.com/framework/
     category: data-pipelines
+  - name: mloda
+    github_id: mloda-ai/mloda
+    category: data-pipelines
+    pypi_id: mloda
+    labels: ["feature-engineering"]
   - github_id: juspay/neurolink
     category: ml-frameworks
     description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
