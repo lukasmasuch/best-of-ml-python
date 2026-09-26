@@ -4668,3 +4668,8 @@ projects:
   - github_id: juspay/neurolink
     category: ml-frameworks
     description: Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support
+  - name: PySAD
+    github_id: selimfirat/pysad
+    pypi_id: pysad
+    docs_url: https://pysad.readthedocs.io/
+    category: time-series-data
