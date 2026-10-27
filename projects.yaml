@@ -2163,7 +2163,7 @@ projects:
     conda_id: conda-forge/pyriemann
     docs_url: https://pyriemann.readthedocs.io/en/latest/
     category: ml-frameworks
-    labels: ["sklearn"]
+    labels: ["sklearn", "pytorch"]
   - name: BigDL
     github_id: intel-analytics/BigDL
     pypi_id: bigdl
