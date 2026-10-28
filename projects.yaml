@@ -4641,6 +4641,10 @@ projects:
     github_id: comet-ml/opik
     pypi_id: opik
     category: nlp
+  - name: noentenc
+    github_id: marti-jorda-roca/noentenc
+    pypi_id: noentenc
+    category: nlp
   - name: TorchUncertainty
     github_id: ENSTA-U2IS-AI/torch-uncertainty
     pypi_id: torch-uncertainty
