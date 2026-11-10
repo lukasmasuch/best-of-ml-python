@@ -3568,6 +3568,11 @@ projects:
     pypi_id: litellm
     category: nlp
     labels: others
+  - name: chunktuner
+    github_id: shantanu-deshmukh/chunktuner
+    pypi_id: chunktuner
+    category: nlp
+    labels: others
   - name: pyclustering
     github_id: annoviko/pyclustering
     pypi_id: pyclustering
