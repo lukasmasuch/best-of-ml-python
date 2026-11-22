@@ -2770,6 +2770,10 @@ projects:
     github_id: thu-ml/zhusuan
     category: probabilistics
     labels: ["tensorflow"]
+  - name: asianscore-quant
+    github_id: AIYIXIU/asianscore-quant-sdk
+    pypi_id: asianscore-quant
+    category: probabilistics
   - name: ART
     github_id: Trusted-AI/adversarial-robustness-toolbox
     pypi_id: adversarial-robustness-toolbox
