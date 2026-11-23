@@ -4673,3 +4673,8 @@ projects:
     pypi_id: purgedcv
     category: financial-data
     labels: ["sklearn"]
+  - name: ApeRAG
+    github_id: apecloud/ApeRAG
+    docs_url: https://apemind.ai/docs/
+    category: nlp
+    description: Open-source GraphRAG and hybrid-retrieval knowledge base engine powering ApeMind (https://apemind.ai/), combining vector, full-text, LightRAG knowledge graph, summary, and vision indexing with a built-in MCP server.
