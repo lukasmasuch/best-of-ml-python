@@ -4676,6 +4676,6 @@ projects:
   - name: flywheel-verify
     github_id: HarperZ9/flywheel
     pypi_id: flywheel-verify
-    docs_url: https://harperz9.github.io/flywheel.html
+    docs_url: https://harperz9.github.io/flywheel/docs/
     category: interpretability
     labels: ["llm", "evaluation", "verification"]
