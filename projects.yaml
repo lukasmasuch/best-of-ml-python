@@ -4673,3 +4673,9 @@ projects:
     pypi_id: purgedcv
     category: financial-data
     labels: ["sklearn"]
+  - name: flywheel-verify
+    github_id: HarperZ9/flywheel
+    pypi_id: flywheel-verify
+    docs_url: https://harperz9.github.io/flywheel.html
+    category: interpretability
+    labels: ["llm", "evaluation", "verification"]
