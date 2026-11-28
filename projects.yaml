@@ -1658,6 +1658,7 @@ projects:
   - name: sklearn-genetic-opt
     github_id: rodrigo-arenas/Sklearn-genetic-opt
     pypi_id: sklearn-genetic-opt
+    conda_id: conda-forge/sklearn-genetic-opt
     category: hyperopt
   - name: Talos
     github_id: autonomio/talos
